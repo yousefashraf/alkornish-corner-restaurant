@@ -1,0 +1,6 @@
+# Ignore Sass compiled CSS files
+/styles/styles.css
+
+# Ignore Docker related files
+docker-compose.yml
+Dockerfile
