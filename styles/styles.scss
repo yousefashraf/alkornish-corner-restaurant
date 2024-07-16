@@ -1,10 +1,18 @@
-$primary-color: #333;
+$primary-color: #000000cf;
 $secondary-color: white;
+$textbox-color: rgba(117, 103, 103, 0.755);
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Cairo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
     margin: 0;
     padding: 0;
+    background-image: url('/assets/images/background.jpeg');
+    background-size: cover;
+    background-attachment: fixed; // Ensures the background image remains fixed as the user scrolls
 }
 
 header {
@@ -12,11 +20,33 @@ header {
     color: $secondary-color;
     padding: 1rem;
     text-align: center;
+
+    .navbar-brand {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        /* Ensure it takes up full width */
+    }
+
+    .navbar-brand img {
+        margin-right: 10px;
+        /* Space between logo and text */
+    }
 }
 
 section {
     padding: 2rem;
     text-align: center;
+
+    .jumbotron {
+        background-color: $textbox-color;
+        color: $secondary-color;
+    }
+
+    .card {
+        background-color: $primary-color;
+    }
 }
 
 footer {
@@ -24,4 +54,8 @@ footer {
     color: $secondary-color;
     text-align: center;
     padding: 1rem;
+    
+    #social {
+        font-size: 2rem;
+    }
 }
