@@ -1,9 +1,9 @@
     <footer>
         <div id="social" class="container text-center">
             <!-- Social Media Icons -->
-            <a href="#" class="text-light m-3"><i class="bi bi-instagram"></i></a>
-            <a href="#" class="text-light m-3"><i class="bi bi-tiktok"></i></a>
-            <a href="#" class="text-light m-3"><i class="bi bi-snapchat"></i></a>
+            <a href="https://www.instagram.com/alkornish_corner?igsh=MXFpZmNyOWRobXhjdA%3D%3D&utm_source=qr" class="text-light m-3"><i class="bi bi-instagram"></i></a>
+            <a href="https://www.tiktok.com/@alkornish_corner?_t=8npd8EjJh5s&_r=1" class="text-light m-3"><i class="bi bi-tiktok"></i></a>
+            <a href="https://snapchat.com/t/D8xBqfgc" class="text-light m-3"><i class="bi bi-snapchat"></i></a>
         </div>
 
     </footer>
