@@ -37,6 +37,106 @@
                     </div>
                 </div>
             </div>
+            <div class="col-sm-6 col-md-4 mb-4">
+                <div class="card">
+                    <img src="/assets/images/4.jpg" class="card-img-top rounded-circle p-2" alt="item 3">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">بروستد دجاج</h5>
+                        <p class="card-text">4 قطع دجاد . ثوم . حمص . بطاطس . خبز</p>
+                        <p class="card-text"><strong>21 ريال</strong></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 mb-4">
+                <div class="card">
+                    <img src="/assets/images/5.jpg" class="card-img-top rounded-circle p-2" alt="item 3">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">روبيان عادي</h5>
+                        <p class="card-text">10 قطع روبيان . ثوم او صوص . بطاطس . خبز</p>
+                        <p class="card-text"><strong>24 ريال</strong></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 mb-4">
+                <div class="card">
+                    <img src="/assets/images/6.jpg" class="card-img-top rounded-circle p-2" alt="item 3">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">فيليه دجاج</h5>
+                        <p class="card-text">5 قطع دجاد . ثوم . حمص . بطاطس . خبز</p>
+                        <p class="card-text"><strong>19 ريال</strong></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 mb-4">
+                <div class="card">
+                    <img src="/assets/images/7.jpg" class="card-img-top rounded-circle p-2" alt="item 3">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">فيليه سمك</h5>
+                        <p class="card-text">4 قطع سمك . ثوم . حمص . بطاطس . خبز</p>
+                        <p class="card-text"><strong>24 ريال</strong></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 mb-4">
+                <div class="card">
+                    <img src="/assets/images/8.jpeg" class="card-img-top rounded-circle p-2" alt="item 3">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">بطاطس بالجبن</h5>
+                        <p class="card-text">بطاطس بصوص الجبن</p>
+                        <p class="card-text"><strong>9 ريال</strong></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 mb-4">
+                <div class="card">
+                    <img src="/assets/images/9.jpeg" class="card-img-top rounded-circle p-2" alt="item 3">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">وجبة برجر</h5>
+                        <p class="card-text">برجر دجاج . صوص . بطاطس</p>
+                        <p class="card-text"><strong>15 ريال</strong></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 mb-4">
+                <div class="card">
+                    <img src="/assets/images/11.jpeg" class="card-img-top rounded-circle p-2" alt="item 3">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">ميني برجر</h5>
+                        <p class="card-text">برجر دجاج</p>
+                        <p class="card-text"><strong>7 ريال</strong></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 mb-4">
+                <div class="card">
+                    <img src="/assets/images/10.jpeg" class="card-img-top rounded-circle p-2" alt="item 3">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">وجبة ناجيتس</h5>
+                        <p class="card-text">ناجيتس دجاج . صوص . بطاطس .مشروب</p>
+                        <p class="card-text"><strong>15 ريال</strong></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 mb-4">
+                <div class="card">
+                    <img src="/assets/images/12.jpeg" class="card-img-top rounded-circle p-2" alt="item 3">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">كرسبي الكورنيش</h5>
+                        <p class="card-text">دجاج . صوص جبن</p>
+                        <p class="card-text"><strong>15 ريال</strong></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 mb-4">
+                <div class="card">
+                    <img src="/assets/images/13.jpeg" class="card-img-top rounded-circle p-2" alt="item 3">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">أرز</h5>
+                        <p class="card-text">طبق أرز بسمتي</p>
+                        <p class="card-text"><strong>7 ريال</strong></p>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>

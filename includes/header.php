@@ -21,7 +21,7 @@
         <nav class="navbar navbar-expand-lg navbar-dark">
             <div class="container">
                 <div class="d-flex justify-content-left">
-                    <a class="navbar-brand d-flex align-items-center" href="#">
+                    <a class="navbar-brand d-flex align-items-center" href="index.php">
                         <img src="/assets/images/logo.png" width="50px" height="50px" class="d-inline-block align-top img-fluid mr-2" alt="Logo">
                         ركن الكورنيش
                     </a>
@@ -32,6 +32,7 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item"><a class="nav-link" href="index.php">الرئيسية</a></li>
+                        <li class="nav-item"><a class="nav-link" href="reservations.php">رحلتنا معكم</a></li>
                         <li class="nav-item"><a class="nav-link" href="menu.php">قائمة طعام</a></li>
                         <li class="nav-item"><a class="nav-link" href="about.php">فروعنا</a></li>
                         <li class="nav-item"><a class="nav-link" href="contact.php">تواصل معنا</a></li>
