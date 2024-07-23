@@ -79,11 +79,11 @@
             </div>
             <div class="col-sm-6 col-md-4 mb-4">
                 <div class="card">
-                    <img src="/assets/images/8.jpeg" class="card-img-top rounded-circle p-2" alt="item 3">
+                    <img src="/assets/images/16.jpeg" class="card-img-top rounded-circle p-2" alt="item 3">
                     <div class="card-body text-center">
-                        <h5 class="card-title">بطاطس بالجبن</h5>
-                        <p class="card-text">بطاطس بصوص الجبن</p>
-                        <p class="card-text"><strong>9 ريال</strong></p>
+                        <h5 class="card-title">مسحب</h5>
+                        <p class="card-text">10 قطع مسحب . ثوم او صوص . بطاطس . خبز</p>
+                        <p class="card-text"><strong>17 ريال</strong></p>
                     </div>
                 </div>
             </div>
@@ -129,11 +129,41 @@
             </div>
             <div class="col-sm-6 col-md-4 mb-4">
                 <div class="card">
+                    <img src="/assets/images/8.jpeg" class="card-img-top rounded-circle p-2" alt="item 3">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">بطاطس بالجبن</h5>
+                        <p class="card-text">بطاطس بصوص الجبن</p>
+                        <p class="card-text"><strong>9 ريال</strong></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 mb-4">
+                <div class="card">
                     <img src="/assets/images/13.jpeg" class="card-img-top rounded-circle p-2" alt="item 3">
                     <div class="card-body text-center">
                         <h5 class="card-title">أرز</h5>
                         <p class="card-text">طبق أرز بسمتي</p>
                         <p class="card-text"><strong>7 ريال</strong></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 mb-4">
+                <div class="card">
+                    <img src="/assets/images/14.jpeg" class="card-img-top rounded-circle p-2" alt="item 3">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">اصابع الجبن</h5>
+                        <p class="card-text">5 حبات</p>
+                        <p class="card-text"><strong>12 ريال</strong></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 mb-4">
+                <div class="card">
+                    <img src="/assets/images/15.jpeg" class="card-img-top rounded-circle p-2" alt="item 3">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">ايس كريم</h5>
+                        <p class="card-text">ايس كريم كوب</p>
+                        <p class="card-text"><strong>5 ريال</strong></p>
                     </div>
                 </div>
             </div>
