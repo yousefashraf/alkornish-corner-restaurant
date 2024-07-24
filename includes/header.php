@@ -33,7 +33,7 @@
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item"><a class="nav-link" href="index.php">الرئيسية</a></li>
                         <li class="nav-item"><a class="nav-link" href="reservations.php">رحلتنا معكم</a></li>
-                        <li class="nav-item"><a class="nav-link" href="menu.php">قائمة طعام</a></li>
+                        <li class="nav-item"><a class="nav-link" href="display_menu.php">قائمة طعام</a></li>
                         <li class="nav-item"><a class="nav-link" href="about.php">فروعنا</a></li>
                         <li class="nav-item"><a class="nav-link" href="contact.php">تواصل معنا</a></li>
                     </ul>

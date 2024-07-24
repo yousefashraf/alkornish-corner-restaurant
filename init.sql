@@ -1,0 +1,11 @@
+CREATE DATABASE IF NOT EXISTS restaurant;
+
+USE restaurant;
+
+CREATE TABLE IF NOT EXISTS menu_items (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    image VARCHAR(255) NOT NULL,
+    title VARCHAR(255) NOT NULL,
+    description TEXT NOT NULL,
+    price DECIMAL(10, 2) NOT NULL
+);
