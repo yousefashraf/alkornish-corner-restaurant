@@ -91,6 +91,8 @@ $menuItems = $menu->getMenuItems();
                     echo '            <h5 class="card-title">' . htmlspecialchars($item["title"]) . '</h5>';
                     echo '            <p class="card-text">' . htmlspecialchars($item["description"]) . '</p>';
                     echo '            <p class="card-text"><strong>' . htmlspecialchars($item["price"]) . ' ريال</strong></p>';
+                    echo '            <a href="edit_item.php?id=' . htmlspecialchars($item["id"]) . '" class="btn btn-warning">تعديل</a>';
+                    echo '            <a href="delete_item.php?id=' . htmlspecialchars($item["id"]) . '" class="btn btn-danger">حذف</a>';
                     echo '        </div>';
                     echo '    </div>';
                     echo '</div>';
