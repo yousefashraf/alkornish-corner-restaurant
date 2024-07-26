@@ -9,3 +9,9 @@ CREATE TABLE IF NOT EXISTS menu_items (
     description TEXT NOT NULL,
     price DECIMAL(10, 2) NOT NULL
 );
+
+CREATE TABLE admin_users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(50) NOT NULL UNIQUE,
+    password VARCHAR(255) NOT NULL
+);
